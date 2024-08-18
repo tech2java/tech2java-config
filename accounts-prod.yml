@@ -1,0 +1,11 @@
+build: 
+ version: 3.0
+
+accounts: 
+ message: "REST APIS PROD environment"
+ contactDetails:
+  name: "Cool_prod"
+  email: "cool_prod@gmail.com"
+ onCallSupport:
+  -(111)-555-1234
+  -(333)-666-4321

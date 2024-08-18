@@ -1,0 +1,11 @@
+build: 
+ version: 2.0
+
+accounts: 
+ message: "REST APIS QA environment!!!"
+ contactDetails:
+  name: "Cool_qa"
+  email: "cool_qa@gmail.com"
+ onCallSupport:
+  -(999)-555-1234
+  -(000)-666-4321
