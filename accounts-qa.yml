@@ -2,7 +2,7 @@ build:
  version: 2.0
 
 accounts: 
- message: "REST APIS QA environment-Latest-Updated"
+ message: "REST APIS QA environment-Latest-Updated-1-31-2025"
  contactDetails:
   name: "Cool_qa"
   email: "{cipher}4dd8463415a6794cb3cb97088106efd957d9690f1b7b6d6b09e4978b88c70436be7f8994a2078b2da8f3acac292cc93a"
