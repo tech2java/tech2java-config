@@ -1,0 +1,10 @@
+api:
+  version: 1.0
+ms1:
+  message: Welcome to ms1-QA-QA
+  contactDetails:
+    name: test-m1-qa-qa
+    email: test-m1-qa-qa@support.com
+  onCallSupport:
+    - (987)-0000-000
+    - (888)-0000-111

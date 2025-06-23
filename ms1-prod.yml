@@ -1,0 +1,10 @@
+api:
+  version: 1.0
+ms1:
+  message: Welcome to ms1-prod-prod
+  contactDetails:
+    name: test-m1-prod-prod
+    email: test-m1-prod-prod@support.com
+  onCallSupport:
+    - (987)-0000-999
+    - (888)-0000-888
