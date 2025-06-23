@@ -4,7 +4,7 @@ ms1:
   message: Welcome to ms1-QA-QA-23-20
   contactDetails:
     name: test-m1-qa-qa
-    email: test-m1-qa-qa@support.com
+    email: {cipher}351966da85833c8cdf216c371a121bf4df8b8aa6d24c2e7ad0ef6cc31ca9fb29c52824c21872df99587308379557416e
   onCallSupport:
     - (987)-0000-000
     - (888)-0000-111
