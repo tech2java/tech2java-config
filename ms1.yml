@@ -1,7 +1,7 @@
 api:
   version: 1.0
 ms1:
-  message: Welcome to ms1
+  message: Welcome to ms1-default profile test
   contactDetails:
     name: test-m1
     email: test-m1@support.com
