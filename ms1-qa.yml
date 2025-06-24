@@ -1,7 +1,7 @@
 api:
   version: 1.0
 ms1:
-  message: Welcome to ms1-QA-webhook test
+  message: Welcome to ms1-QA-webhook test-cool
   contactDetails:
     name: test-m1-qa-qa
     email: "{cipher}351966da85833c8cdf216c371a121bf4df8b8aa6d24c2e7ad0ef6cc31ca9fb29c52824c21872df99587308379557416e"
