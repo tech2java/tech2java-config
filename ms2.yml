@@ -1,23 +1,17 @@
 server:
-  port: 9090
+  port: 8080
   #servlet:
     #context-path: /ms1
 spring:
   application:
-    name: ms1
-  config:
-    import:
-    - application_qa.yml
-    - application_prod.yml
-  profiles:
-    active: prod
+    name: ms2
 api:
   version: 1.0
 ms1:
-  message: Welcome to ms1
+  message: Welcome to ms2
   contactDetails:
-    name: test-m1
-    email: test-m1@support.com
+    name: test-m2
+    email: test-m2@support.com
   onCallSupport:
     - (987)-0987-876
     - (888)-5463-123
