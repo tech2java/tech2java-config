@@ -1,20 +1,10 @@
-server:
-  port: 9090
-  #servlet:
-    #context-path: /ms1
-spring:
-  application:
-    name: ms1
-  config:
-    activate:
-      on-profile: prod
 api:
   version: 1.0
 ms1:
-  message: Welcome to ms1-prod
+  message: Welcome to ms2-prod
   contactDetails:
-    name: test-m1-prod
-    email: test-m1-prod@support.com
+    name: test-ms2-prod
+    email: test-ms2-prod@support.com
   onCallSupport:
     - (987)-0000-999
     - (888)-0000-888
