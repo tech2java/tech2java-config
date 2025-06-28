@@ -1,13 +1,3 @@
-server:
-  port: 9090
-  #servlet:
-    #context-path: /ms1
-spring:
-  application:
-    name: ms1
-  config:
-    activate:
-      on-profile: qa
 api:
   version: 1.0
 ms1:
